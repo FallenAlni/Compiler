@@ -1,0 +1,15 @@
+program test; {henlo}
+{hi} 
+(* me checking if 
+this is working*) 
+(* are 
+you 
+sure *) 
+(* last test *) 
+var i: integer;
+a: integer;
+begin
+a := 4; 
+i := 6;  
+a := i + a;
+end. 

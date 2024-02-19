@@ -1,0 +1,14 @@
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.AssemblyInfoInputs.cache
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.AssemblyInfo.cs
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.csproj.CoreCompileInputs.cache
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\bin\Debug\net6.0\ComplilerA.exe
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\bin\Debug\net6.0\ComplilerA.deps.json
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\bin\Debug\net6.0\ComplilerA.runtimeconfig.json
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\bin\Debug\net6.0\ComplilerA.dll
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\bin\Debug\net6.0\ComplilerA.pdb
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.dll
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\refint\ComplilerA.dll
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.pdb
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ComplilerA.genruntimeconfig.cache
+C:\Users\Afedo\source\C# labs\ComplilerA\ComplilerA\obj\Debug\net6.0\ref\ComplilerA.dll

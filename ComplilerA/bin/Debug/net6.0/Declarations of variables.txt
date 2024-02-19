@@ -1,0 +1,26 @@
+var
+    i: integer;
+    a: shortint;
+    b: smallint;
+    c: integer;
+    d: longint;
+    e: int64;
+    f: byte;
+    g: word;
+    l: longword;
+    m: cardinal;
+    n: uint64;
+    k: string;
+    y: char;
+    s, j, h: integer;
+    y: array [0..15] of boolean;
+begin
+    a := 4; 
+    i := 6;  
+    a := i + a;
+    a:=a+b;
+    c:=c+d;
+    e:=e+f;
+    g:=g+l;
+    m:=m+n;
+end.
